@@ -2,10 +2,15 @@
 //
 
 #include "stdafx.h"
+#include "stdio.h"
+#include "iostream"
+
+using namespace std;
 
 
 int main()
 {
-    return 0;
+	std::cout << "Hello world !! Test parser\n";
+	return 0;
 }
 
